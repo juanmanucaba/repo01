@@ -1,4 +1,4 @@
-
+//Este es un archivo de pruebas
 var edad = prompt("Ingrese su edad");
 
 if (edad >= 18){
